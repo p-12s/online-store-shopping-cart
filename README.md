@@ -1,2 +1,2 @@
-# online-store-shopping-cart
-Simple shoping cart
+## Корзина интернет-магазина
+Разработка MVP
